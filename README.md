@@ -1,2 +1,2 @@
 # fist-project
-this is my fist git Reepository.
+This is my fist Git Reepository.
